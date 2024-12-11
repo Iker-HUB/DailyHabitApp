@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "57995066176",
+    "project_id": "dailyhabit-b3b9d",
+    "storage_bucket": "dailyhabit-b3b9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57995066176:android:a400ce4a0f92f83f7918a5",
+        "android_client_info": {
+          "package_name": "com.iab.dailyhabit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "57995066176-9dn52peap99hkabmt889qm9rimn5q5gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.iab.dailyhabit",
+            "certificate_hash": "6f51880b820d1bf5830ca286e84782a84198fb81"
+          }
+        },
+        {
+          "client_id": "57995066176-7shf79h2cdbpi67s5u6g7a1u8e0jtglg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALTpkaG1DZTWEGeDMxfdHfnVAPFxIlu5c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "57995066176-7shf79h2cdbpi67s5u6g7a1u8e0jtglg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
